@@ -101,7 +101,7 @@ if __name__ == '__main__':
     w.show()
 =======
 from PyQt5 import QtWidgets, QtCore
-from PyQt5.QtWidgets import QCheckBox, QDialog, QMainWindow, QVBoxLayout, QWidget, QHBoxLayout
+from PyQt5.QtWidgets import QCheckBox, QDialog, QVBoxLayout, QHBoxLayout
 import pyqtgraph as pg
 import sys
 from random import randint
